@@ -11,3 +11,31 @@ docker search ubuntu
 docker pull ubuntu
 docker images
 sudo apt-get install git
+nano hi.html
+git config --global user.name "huygit"
+git config --global user.email "nguyentinhhuy@gmail.com"
+git config -list
+git config --list
+git status
+git clone <https://gist.github.com/huygit>
+git clone https://gist.github.com/huygit
+git add text 
+git add <text>
+git init
+git add test
+git add <test>
+git add .
+git commit -m "message"
+git status
+git log
+git commit -a -m "message"
+git push
+git push origin master
+git push
+git init
+cd desktop
+git remote add origin"https://github.com/tinhhuy/test.git"
+git add .
+git commit -m "comment"
+git push origin master
+git push
